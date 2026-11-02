@@ -35,7 +35,13 @@ export default function TaskComments({
           {comments.map((comment) => (
             <div className="comment" key={comment.id}>
               <strong>{comment.author}</strong>
-              <p>{comment.text}</p>
+
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: comment.text,
+                }}
+              />
+
               <small>{comment.createdAt}</small>
             </div>
           ))}

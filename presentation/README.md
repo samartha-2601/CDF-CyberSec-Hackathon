@@ -12,11 +12,8 @@ The orientation presentation will cover:
 - Hackathon introduction
 - Challenge overview
 - Find, Fix, Fortify requirements
-- Sample application walkthrough
-- Technical rules
 - Expected deliverables
 - Evaluation criteria
-- Two-day schedule
 - Submission instructions
 - Questions and support
 

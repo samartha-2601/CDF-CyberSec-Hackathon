@@ -4,7 +4,6 @@
 ## CDF CyberSec Hackathon
 ### Intelligent Code Security Challenge
 
-**Duration:** 2 Days
 **Difficulty:** Beginner-Friendly
 **Format:** Technical, Code-First
 

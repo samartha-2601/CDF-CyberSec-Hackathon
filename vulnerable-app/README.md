@@ -91,14 +91,11 @@ Docker and Supabase CLI are not required.
 Clone the hackathon repository:
 
 ```bash
-git clone <PUBLIC_REPOSITORY_URL>
+git clone https://github.com/samartha-2601/CDF-CyberSec-Hackathon.git
 ```
 
-Replace the placeholder with the URL provided by
-the hackathon organizers.
-
 Alternatively, download the repository as a ZIP
-file and extract it.
+file and extract it. (https://github.com/samartha-2601/CDF-CyberSec-Hackathon)
 
 ### Step 2: Open the application directory
 

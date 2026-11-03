@@ -55,7 +55,6 @@ Generate a comprehensive report containing:
 
 ## Challenge Format
 
-- Duration: 2 days
 - Difficulty: Beginner-friendly
 - Focus: Technical implementation
 - AI usage: Required

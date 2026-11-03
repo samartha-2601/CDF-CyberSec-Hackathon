@@ -7,7 +7,7 @@
 
 Welcome to the CDF CyberSec Hackathon!
 
-In this two-day, code-first hackathon, you will build
+In this multi-day, code-first hackathon, you will build
 an AI-powered security code review tool that analyzes
 application source code, identifies potential security
 vulnerabilities, recommends secure code fixes, and

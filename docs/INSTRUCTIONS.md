@@ -149,28 +149,7 @@ Your findings should:
 Do not assume that every code pattern is insecure
 in every possible application.
 
-## 8. Suggested Two-Day Workflow
-
-### Day 1
-
-- Understand the challenge and sample application.
-- Build source-code input functionality.
-- Integrate an AI model.
-- Implement initial vulnerability analysis.
-- Display findings and explanations.
-
-### Day 2
-
-- Improve detection quality.
-- Implement secure code suggestions.
-- Generate the security report.
-- Test the complete workflow.
-- Record the demo and submit deliverables.
-
-The official schedule and submission deadline will
-be announced by the organizers.
-
-## 9. Submission Requirements
+## 8. Submission Requirements
 
 Submit:
 
@@ -183,7 +162,7 @@ Submit:
 
 See [SUBMISSION.md](SUBMISSION.md).
 
-## 10. Judging
+## 9. Judging
 
 Projects will be evaluated according to the
 published judging rubric.
@@ -195,7 +174,7 @@ the provided sample application.
 Do not hardcode vulnerability findings or known
 answers for the practice application.
 
-## 11. Security and Privacy
+## 10. Security and Privacy
 
 Only analyze code that you own or are authorized
 to review.
@@ -211,7 +190,7 @@ Uploaded source should be analyzed as data.
 
 Do not deploy the vulnerable sample backend.
 
-## 12. Final Checklist
+## 11. Final Checklist
 
 Before submission, verify:
 

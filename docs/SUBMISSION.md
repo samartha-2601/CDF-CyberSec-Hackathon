@@ -70,19 +70,7 @@ severity levels, code locations, and remediation.
 
 ## 2. Submission Information
 
-The submission form will request:
-
-- Team name
-- Team members
-- Primary contact email
-- Project/tool name
-- Short project description
-- GitHub repository URL
-- Demo video URL
-- Sample report URL
-- AI model or provider used
-- External tools or libraries used
-- Setup instructions or README URL
+The submission form will be shared with all participants.
 
 ## 3. Submission Deadline
 
